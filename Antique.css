@@ -1,0 +1,68 @@
+body{
+    background-image: url('https://wallpapercave.com/wp/7tKVQCJ.jpg');
+}
+div.heading{
+   opacity: 0.6;
+   width: 100%;
+   height: 60px;
+}
+div.heading h1{
+    opacity: 1;
+    font-weight: bold;
+    text-align: center;
+    font-size: 400px;
+    margin-top: 90px;
+    color: rgb(255, 176, 5);
+}
+.go{
+    cursor: pointer;
+    color: black;
+    background-color: aliceblue;
+}
+.go:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.go1{
+    cursor: pointer;
+    color: black;
+    background-color: aliceblue;
+}
+.go1:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.rec{
+    margin-top: -300px;
+    margin-left: 850px;
+}
+.learn{
+    cursor: pointer;
+    background-color: chocolate;
+    color: aliceblue;
+    border-color: aliceblue;
+}
+.learn:hover{
+     background-color: aliceblue;
+     color: chocolate;
+     border-color: chocolate;
+}
+.serv{
+    width: 1000px;
+    height: 520px;
+    margin-top: 60px;
+    margin-left: 250px;
+    border-color: black;
+    border-radius: 20px;
+    background-color: rgb(230, 154, 39);
+}
+.cont{
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
+    background-color: rgb(230, 154, 39);
+}
+input{
+    width: 500px;
+    height: 30px;
+}
